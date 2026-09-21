@@ -3,3 +3,10 @@ Django==6.1
 djangorestframework==3.18.0
 sqlparse==0.6.0
 tzdata==2026.3
+djangorestframework-simplejwt
+django-cors-headers
+python-dotenv
+openai
+chromadb
+pypdf
+psycopg[binary]
